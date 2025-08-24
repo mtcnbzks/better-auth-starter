@@ -12,7 +12,7 @@ and prebuilt flows from
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/your-org/better-auth-starter.git
+   git clone https://github.com/mtcnbzks/better-auth-starter.git
    cd better-auth-starter
    ```
 2. Install dependencies
